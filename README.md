@@ -8,3 +8,10 @@
 
 ## Git Pull
 `git pull` is a (clone(download) + merge) operation and mostly used when you are working as teamwork. (Can be multiple time if there is new changes on the repo). git pull downloads the changes and merges them into your current branch. 
+
+## Git Add
+`git add .` Stage the all the file for commit to your local repository by the following command.
+
+## Git Commit
+`git commit -m` "Create changes on README file"
+	Commit the file that you’ve staged in your local repository.
